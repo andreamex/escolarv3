@@ -1,0 +1,11 @@
+{
+  "name": "escolarv3",
+  "version": "1.0.0",
+  "description": "programa de sistema escolar version 3",
+  "main": "index.js",
+  "author": "Andrea Lourdes",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
